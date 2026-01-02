@@ -1,4 +1,4 @@
-![ ***Aptumorph***]()
+![ ***Aptumorph***](Aptumorph_AI.png)
 
 - 👋 Hi, I’m @Townler
 - 👀 I’m interested in learning Python
